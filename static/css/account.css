@@ -1,0 +1,47 @@
+body {
+    background-image: url(../img/shattered.png);
+  }
+  
+  .logo {
+    font-family: 'Peralta', cursive;
+  }
+  
+  .logo a {
+    color: rgba(0,0,0,.9);
+    text-decoration: none;
+  }
+  
+  
+  .dropdown-toggle{
+     margin-left: 750px;
+}
+li a{
+    text-decoration: none;
+}
+.btn-block{
+
+    width: 100%;
+    margin-top:10px;
+}
+
+
+.btn-group .user {
+    width:auto;
+    margin-left: 750px;
+}
+.form-inline .user{
+    margin-left: 750px;
+  
+}
+.log a{
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.table a{
+  text-decoration: none;
+}
+ .proimg img{
+  width: 50;
+  height: 100%;
+  padding-right: 10px;
+}
